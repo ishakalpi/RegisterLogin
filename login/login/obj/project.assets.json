@@ -11098,11 +11098,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WebSites\\test\\asp.net core cshtml pages project\\identity\\login\\login\\login.csproj",
+      "projectUniqueName": "D:\\GITHUB\\Registration\\RegisterLogin\\login\\login\\login.csproj",
       "projectName": "login",
-      "projectPath": "D:\\WebSites\\test\\asp.net core cshtml pages project\\identity\\login\\login\\login.csproj",
+      "projectPath": "D:\\GITHUB\\Registration\\RegisterLogin\\login\\login\\login.csproj",
       "packagesPath": "C:\\Users\\Ish\\.nuget\\packages\\",
-      "outputPath": "D:\\WebSites\\test\\asp.net core cshtml pages project\\identity\\login\\login\\obj\\",
+      "outputPath": "D:\\GITHUB\\Registration\\RegisterLogin\\login\\login\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ish\\AppData\\Roaming\\NuGet\\NuGet.Config",
