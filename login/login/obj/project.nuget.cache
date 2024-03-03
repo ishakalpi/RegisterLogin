@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nCu4F4TetSjamRw4Yt8mtPhqy6dthTk2fWYT5jYLNBDR6sJ5osyxWfZ3ruLQWU7b9WVIfReHcKbkFZR+/QV5bQ==",
+  "dgSpecHash": "5xs+BJINzT8lQZKqTCwCPrWjZp5Nc3FcPL2THW8FlXAHQ4FfxXqIRSyGglBDeVdv/Ph7d3hQ05BWx2CJ0g4Izw==",
   "success": true,
-  "projectFilePath": "D:\\WebSites\\test\\asp.net core cshtml pages project\\identity\\login\\login\\login.csproj",
+  "projectFilePath": "D:\\GITHUB\\Registration\\RegisterLogin\\login\\login\\login.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ish\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Ish\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
